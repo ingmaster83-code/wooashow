@@ -7,7 +7,7 @@ OUT = ROOT / "_site"
 BASE = "https://wooashow.wooahouse.com"
 SITE = "우아전시공연"
 ICON = "🎭"
-NAVER_TOKEN = ""  # 네이버 서치어드바이저 소유확인 메타 태그 값(받으면 채움)
+NAVER_TOKEN = "38f5d5687d291d385e94f87fc56697f4812f19c7"  # 네이버 서치어드바이저 소유확인 메타 태그 값(받으면 채움)
 esc = html.escape
 
 NAV = [("공연·전시 찾기", "/"), ("이번 주말", "/weekend/"), ("종류별", "/type/"), ("지역별", "/region/"), ("무료", "/free/"), ("곧 끝나는", "/ending/")]
