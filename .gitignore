@@ -1,0 +1,6 @@
+_site/
+__pycache__/
+.env
+fetch.log
+check.log
+*.tmp
